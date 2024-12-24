@@ -22,7 +22,7 @@ games/BigSurvey/content/[language]/BigSurveyQuestion.jet in the game folder.
 content_ids folder; these files were generated using list_content_ids.py. If you
 need to regenerate these lists, e.g. if they updated the game to add new
 questions, you can run ``python3 list_content_ids.py
-path/to/games/content/manifest.jet``.)
+path/to/games/BigSurvey/content/manifest.jet``.)
 
 ## TODO
 
